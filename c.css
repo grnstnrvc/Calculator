@@ -10,8 +10,8 @@ html {
 }
 
 .calculator {
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -27,15 +27,15 @@ html {
   background-color: #252525;
   color: #fff;
   text-align: right;
-  padding-right: 20px;
+  padding-right: 22px;
   padding-left: 10px;
 }
 
 button {
   height: 60px;
   background-color: #fff;
-  border-radius: 3px;
-  border: 1px solid #c4c4c4;
+  border-radius: 4px;
+  border: 2px solid #c4c4c4;
   background-color: transparent;
   font-size: 2rem;
   color: #333;
